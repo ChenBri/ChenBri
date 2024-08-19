@@ -3,7 +3,7 @@
 </h3>
 <p align="center" style="pa"> 
 	<samp>
-	    「 I am a Full-Stack Student at InfinityLabs 」
+	    「 I am a Full-Stack Developer 」
     </samp>
     <br> 
 </p>
