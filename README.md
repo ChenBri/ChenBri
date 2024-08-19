@@ -42,11 +42,8 @@ During my time as a research assistant, I have been developing experiments and j
 
 <h4>Languages, technologies and tools I have been working with:</h4>
 
-<img alt='Javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=Javascript&logoColor=F0DB4F&labelColor=black&color=F0DB4F'/>
-<img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=659AD3&labelColor=black&color=659AD3'/>
-<img alt="Java" src="https://img.shields.io/badge/java-java?style=for-the-badge&logo=coffeescript&logoColor=f89820&labelColor=black&color=f89820">
-<img alt="Python" src="https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=ffde57&labelColor=black&color=ffde57">
-<img alt="SQL" src="https://img.shields.io/badge/sql-sql?style=for-the-badge&logo=databricks&logoColor=58CF38&labelColor=black&color=58CF38">
+<img alt='Javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=Javascript&logoColor=F0DB4F&labelColor=black&color=F0DB4F'/><img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=659AD3&labelColor=black&color=659AD3'/>
+<img alt="Java" src="https://img.shields.io/badge/java-java?style=for-the-badge&logo=coffeescript&logoColor=f89820&labelColor=black&color=f89820"><img alt="Python" src="https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=ffde57&labelColor=black&color=ffde57"><img alt="SQL" src="https://img.shields.io/badge/sql-sql?style=for-the-badge&logo=databricks&logoColor=58CF38&labelColor=black&color=58CF38">
 
 <img alt="React" src="https://img.shields.io/badge/react-react?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=black&color=61dafb">
 <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-vue?style=for-the-badge&logo=vue.js&logoColor=41B883&labelColor=black&color=41B883">
