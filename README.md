@@ -19,6 +19,7 @@
 ---
 
 <p align="center"> 
+	Recently I finished my studies at InfinityLabs R&D.
     I have a B.A. in Psychology from Bar-Ilan University where I was working as a <a href="https://ilushgordon.wixsite.com/ilanit-gordon-lab" target="_blank">research assistant</a>.
 During my time as a research assistant, I have been developing experiments and joining <a href="https://www.labvanced.com/" target="_blank">Labvaned</a> as a front-end developer intern where I helped developing <a href="https://www.pagegazer.com/" target="_blank">PageGazer</a>. I have also worked freelance creating experiments using Python and Javascript via <a href="https://www.fiverr.com/eyalchen" target="_blank">Fiverr</a>.
 </p>
