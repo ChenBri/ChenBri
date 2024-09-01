@@ -28,7 +28,7 @@ During my time as a research assistant, I have been developing experiments and j
 
  <p>
   <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-  👨‍💻 &emsp; Currently, I am focused on learning React and Redux.
+  👨‍💻 &emsp; Currently, I am focused on learning Redux and PHP.
   <br/><br/>
   ❤️ &emsp; My dream is to be in a place where I can mentor and share my technical knowledge with others.
   <br/><br/>
