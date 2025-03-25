@@ -19,6 +19,7 @@
 ---
 
 <p align="center"> 
+	I am a fullstack developer at Surense.
 	Recently I finished my studies at InfinityLabs R&D.
     I have a B.A. in Psychology from Bar-Ilan University where I was working as a <a href="https://ilushgordon.wixsite.com/ilanit-gordon-lab" target="_blank">research assistant</a>.
 During my time as a research assistant, I have been developing experiments and joining <a href="https://www.labvanced.com/" target="_blank">Labvaned</a> as a software developer intern where I helped develop <a href="https://www.pagegazer.com/" target="_blank">PageGazer</a>. I have also worked freelance creating experiments using Python and Javascript via <a href="https://www.fiverr.com/eyalchen" target="_blank">Fiverr</a>.
@@ -28,7 +29,7 @@ During my time as a research assistant, I have been developing experiments and j
 
  <p>
   <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-  👨‍💻 &emsp; Currently, I am focused on learning PHP and Docker.
+  👨‍💻 &emsp; Currently, I am focused on learning React Native and Spring Boot.
   <br/><br/>
   ❤️ &emsp; My dream is to be in a place where I can mentor and share my technical knowledge with others.
   <br/><br/>
