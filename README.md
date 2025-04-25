@@ -29,11 +29,9 @@ During my time as a research assistant, I have been developing experiments and j
 
  <p>
   <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-  👨‍💻 &emsp; Currently, I am focused on learning React Native and Spring Boot.
+  👨‍💻 &emsp; Currently, I am focused on learning Java & Quarkus.
   <br/><br/>
   ❤️ &emsp; My dream is to be in a place where I can mentor and share my technical knowledge with others.
-  <br/><br/>
-  🌐 &emsp; I love being part of a community and helping other people.
   <br/><br/>
   🎮 &emsp; In my free time, I enjoy playing video games, mostly multiplayer games with friends.
   <!-- <br/><br/>
