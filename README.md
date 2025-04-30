@@ -1,41 +1,41 @@
 <h3 align="center">
     <samp>&gt; Hey there! I am Chen Brilling</samp>
 </h3>
-<p align="center" style="pa"> 
+<p align="center"> 
 	<samp>
-	    「 I am a Full-Stack Developer 」
+	    「 Full-Stack Developer 」
     </samp>
     <br> 
 </p>
 
-<p align="center" style="pa"> 
+<p align="center"> 
     <a href="https://www.linkedin.com/in/chen-brilling/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Linkedin?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0a66c2&color=0a66c2"></a>
     <a href="mailto: chenbrilling@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-gmail?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BD1220&color=BD1220"></a>
-   <a href="https://stackoverflow.com/users/17718587/chenbr" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Stackoverflow-Stackoverflow?style=for-the-badge&logo=Stackoverflow&logoColor=white&labelColor=F47F24&color=F47F24"></a>
-     <a href="https://psychen.dev/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/website-website?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=800080&color=800080"></a>
-     <a href="https://discourse.psychopy.org/u/chen/summary" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/psychopy-psychopy?style=for-the-badge&logo=headspace&logoColor=white&labelColor=gray&color=gray"></a>
-    </p>
-    
----
-
-<p align="center"> 
-	I am a fullstack developer at Surense.
-	Recently I finished my studies at InfinityLabs R&D.
-    I have a B.A. in Psychology from Bar-Ilan University where I was working as a <a href="https://ilushgordon.wixsite.com/ilanit-gordon-lab" target="_blank">research assistant</a>.
-During my time as a research assistant, I have been developing experiments and joining <a href="https://www.labvanced.com/" target="_blank">Labvaned</a> as a software developer intern where I helped develop <a href="https://www.pagegazer.com/" target="_blank">PageGazer</a>. I have also worked freelance creating experiments using Python and Javascript via <a href="https://www.fiverr.com/eyalchen" target="_blank">Fiverr</a>.
+    <a href="https://stackoverflow.com/users/17718587/chenbr" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Stackoverflow-Stackoverflow?style=for-the-badge&logo=Stackoverflow&logoColor=white&labelColor=F47F24&color=F47F24"></a>
+    <a href="https://psychen.dev/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/website-website?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=800080&color=800080"></a>
+    <a href="https://discourse.psychopy.org/u/chen/summary" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/psychopy-psychopy?style=for-the-badge&logo=headspace&logoColor=white&labelColor=gray&color=gray"></a>
 </p>
 
 ---
 
- <p>
+<p align="center"> 
+    I am a full-stack developer at Surense, where I focus on building and maintaining web and mobile applications. 
+    I enjoy working across the stack—from backend infrastructure to frontend experiences.
+    <br/><br/>
+    I previously interned at Labvanced, helping build <a href="https://www.pagegazer.com/" target="_blank">PageGazer</a>, and worked as a research assistant during my Psychology B.A. at Bar-Ilan University.
+    <br/><br/>
+    I've also freelanced on <a href="https://www.fiverr.com/eyalchen" target="_blank">Fiverr</a>, building experiments with Python and JavaScript, primarily using <a href="https://www.psychopy.org/" target="_blank">PsychoPy</a>.
+</p>
+
+---
+
+<p>
   <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-  👨‍💻 &emsp; Currently, I am focused on learning Java & Quarkus.
+  👨‍💻 &emsp; Currently focused on Java & Quarkus backend development.
   <br/><br/>
-  ❤️ &emsp; My dream is to be in a place where I can mentor and share my technical knowledge with others.
+  ❤️ &emsp; Passionate about mentorship and sharing technical knowledge.
   <br/><br/>
-  🎮 &emsp; In my free time, I enjoy playing video games, mostly multiplayer games with friends.
-  <!-- <br/><br/>
-  💬 &emsp; You can reach me at chenbrilling@gmail.com-->
+  🎮 &emsp; Enjoy multiplayer games with friends in my spare time.
 </p>
 
 ---
